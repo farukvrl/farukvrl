@@ -4,19 +4,15 @@
 
 ### 🚀 Über mich
 
-Ich bin ein angehender Fachinformatiker für Anwendungsentwicklung und begeistert von der Welt der Softwareentwicklung. Meine Fähigkeiten umfassen HTML, CSS, JavaScript und Python, und ich strebe danach, in der Branche innovative Lösungen zu schaffen.
+Ich bin angehender Fachinformatiker für Anwendungsentwicklung und liebe es, Software zu entwickeln. Meine Fähigkeiten umfassen HTML, CSS, JavaScript, Python und SQL und mein Ziel ist es, innovative Lösungen in der Branche zu entwickeln.
 
 ### 🔧 Technologien und Tools
 
-- Sprachen: HTML, CSS, JavaScript, Python
+- Sprachen: HTML, CSS, JavaScript, Python, SQL 
 
 ### 🌱 Aktuell lerne ich
 
-Als angehender Fachinformatiker für Anwendungsentwicklung vertiefe ich meine Kenntnisse in Python, JavaScript sowie SQL. 
-
-### 🤝 Zusammenarbeit
-
-Ich bin offen für Zusammenarbeit und Diskussionen über Softwareentwicklung, Anwendungsentwicklung und alle Themen, die mit meiner Ausbildung und Interessen in Einklang stehen. Lass uns gemeinsam etwas Großartiges schaffen!
+Meine Kenntnisse in Python, JavaScript und SQL vertiefe ich als angehender Fachinformatiker Anwendungsentwicklung. 
 
 ### 📈 GitHub Statistiken
 
