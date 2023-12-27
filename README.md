@@ -20,6 +20,6 @@ Ich bin offen für Zusammenarbeit und Diskussionen über Softwareentwicklung, An
 
 ### 📈 GitHub Statistiken
 
-[![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=dein-username&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/farukvrl)
+[![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=farukvrl&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)](https://github.com/farukvrl)
 
 Danke fürs Vorbeischauen! 😊
