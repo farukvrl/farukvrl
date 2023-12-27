@@ -1,4 +1,4 @@
-# Faruk
+# That's me 
 
 ## 👋 Hallo, ich bin Faruk! 
 
