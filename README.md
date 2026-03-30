@@ -69,7 +69,7 @@ Full-stack developer focused on **iOS**, **Android** and **Web**. I build clean,
 <!-- This section is auto-updated by GitHub Actions. Do not edit manually. -->
 | Project | Description | Language | Stars |
 |---------|-------------|----------|-------|
-| [elbstrom-elektrotechnik-de](https://github.com/farukvrl/elbstrom-elektrotechnik-de) | Production-ready Next.js patterns: secure contact API, SEO layout, dynamic business hours badge | TypeScript | ⭐ 4 |
+| [elbstrom-elektrotechnik-de](https://github.com/farukvrl/elbstrom-elektrotechnik-de) | Production-ready Next.js patterns: secure contact API, SEO layout, dynamic business hours badge | TypeScript | ⭐ 2 |
 <!-- PROJECTS_END -->
 
 <br/>
@@ -95,5 +95,5 @@ Full-stack developer focused on **iOS**, **Android** and **Web**. I build clean,
 ---
 
 <div align="center">
-  <sub>Auto-updated weekly · Last refresh: <!-- LAST_UPDATED -->2026-03-23<!-- /LAST_UPDATED --></sub>
+  <sub>Auto-updated weekly · Last refresh: <!-- LAST_UPDATED -->2026-03-30<!-- /LAST_UPDATED --></sub>
 </div>
