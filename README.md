@@ -95,5 +95,5 @@ Full-stack developer focused on **iOS**, **Android** and **Web**. I build clean,
 ---
 
 <div align="center">
-  <sub>Auto-updated weekly · Last refresh: <!-- LAST_UPDATED -->2026-05-18<!-- /LAST_UPDATED --></sub>
+  <sub>Auto-updated weekly · Last refresh: <!-- LAST_UPDATED -->2026-05-25<!-- /LAST_UPDATED --></sub>
 </div>
